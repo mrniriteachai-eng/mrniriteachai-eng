@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi 👋, I'm Nirmal saud
 
 ## 🚀 Aspiring AI Engineer from Nepal
