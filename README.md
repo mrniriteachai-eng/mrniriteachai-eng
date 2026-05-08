@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![logo](https://github.com/mrniriteachai-eng/mrniriteachai-eng/blob/main/README.md)
 
 # Hi 👋, I'm Nirmal saud
 
